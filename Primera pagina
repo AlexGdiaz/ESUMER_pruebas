@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Un tal Alex</title>
+    
+    <link rel="stylesheet" href="CSS/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap"rel="stylesheet">   
+
+</head>
+
+    <body>
+        <nav>
+            <h1>Portafolio de Alex</h1>
+                <ul>
+                    <li><a href="#projects">Proyectos</a></li>
+                    <li><a href="#about">Sobre mí</a></li>
+                    <li><a href="#contact">Contacto</a></li>
+                </ul>
+        </nav>  
+        </section id="yo_streetwear">
+            <h2>Una ilustración mía</h2>
+                <img
+                src="imagenes/Imagen1.jpg"
+                alt="Imagen de Alex"
+                width="200
+                height="200">
+            <p>Bienvenidos a mi portafolio</p>
+        </section id="proyects">
+            <div>
+                <div>
+                    <h1>Mis proyectos</h1>
+                    <h2>Proyecto 1</h2>
+                        <p>Descripción del primer proyecto.</p>
+                </div>
+                <div>
+                    <h2>Proyecto 2</h2>
+                        <p>Descripción del segundo proyecto.</p>
+                </div>
+                <div>    
+                        <h2>Proyecto 3</h2>
+                        <p>Descripción del tercer proyecto.</p>
+                </div>
+            </div>
+        </section>
+        <section id="about">
+            <div>
+                <div>
+                    <button>Mi CV</button>
+                    <h3>SOBRE MI</h3>
+                </div>
+                <p>
+                    Hola, soy Alex, un apasionado del desarrollo web y la tecnología. Me encanta crear soluciones innovadoras y aprender constantemente nuevas habilidades en el mundo digital. Mi objetivo es contribuir a proyectos que tengan un impacto positivo y significativo.
+                </p>
+            </div>
+        <footer>
+            <ul>
+                <li><a href="#projects">Proyectos</a></li>
+                <li><a href="#about">Sobre mí</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+            <p>2026 - Todos los derechos reservados.</p>
+        </footer>
+            
+</body>
+</html>
